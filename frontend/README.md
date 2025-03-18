@@ -1,7 +1,6 @@
 # 🤑 Expense Splitter App (Frontend)
 A simple and user-friendly **Expense Splitter App** that helps users split expenses among friends, track payments, and manage balances.
 
-![Expense Splitter UI](https://via.placeholder.com/800x400?text=Project+Screenshot)
 
 ---
 
