@@ -63,5 +63,5 @@ The app will run on `http://localhost:3000`. 🎉
 
 ## 📧 Contact
 🔗 **GitHub**: [@lakshmipriyankaimadabattina](https://github.com/lakshmipriyankaimadabattina)  
-📩 **Email**: your-email@example.com  
+📩 **Email**: lpriyanka075@gmail.com  
 
